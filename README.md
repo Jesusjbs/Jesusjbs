@@ -41,12 +41,12 @@
 
 ### Conctact with me 📩
 
-<a target="_blank" href="https://twitter.com/Jesus_jbs17">
+<a href="https://twitter.com/Jesus_jbs17" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/jesus_jbs/">
+<a href="https://www.instagram.com/jesus_jbs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:jesusbarba11@gmail.com">
+<a href="mailto:jesusbarba11@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
