@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusjbs&layout=compact&theme=react" />
 </a>
 
-### Conctact with me 📩
+### Contact with me 📩
 
 <a href="https://twitter.com/Jesus_jbs17" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
