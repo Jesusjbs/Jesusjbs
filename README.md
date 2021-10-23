@@ -17,14 +17,18 @@
 ### Technologies 🌐
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
-![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
+![Travis CI](https://img.shields.io/badge/-Travis CI-000?&logo=Travis-CI)
+![Codacy](https://img.shields.io/badge/-Codacy-000?&logo=codacy)
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-000?logo=sonarcloud)
 
 ### Tools 🛠
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=blue)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=eclipse&logoColor=651A91)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=phpstorm&logoColor=violet)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=F9F505)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
