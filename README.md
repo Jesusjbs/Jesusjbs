@@ -18,6 +18,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=05F99B)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=Travis-CI)
 ![Codacy](https://img.shields.io/badge/-Codacy-000?&logo=codacy)
