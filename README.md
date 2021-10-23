@@ -19,7 +19,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
-![Travis CI](https://img.shields.io/badge/-Travis CI-000?&logo=Travis-CI)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=Travis-CI)
 ![Codacy](https://img.shields.io/badge/-Codacy-000?&logo=codacy)
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-000?logo=sonarcloud)
 
