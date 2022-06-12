@@ -12,13 +12,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=php)
-![Octave](https://img.shields.io/badge/-Octave-000?logo=octave)
 
 ### Technologies 🌐
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=05F99B)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=Travis-CI)
 ![Codacy](https://img.shields.io/badge/-Codacy-000?&logo=codacy)
