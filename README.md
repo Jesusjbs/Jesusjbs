@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jesús
 
-- 🔭 I’m currently studying at the University of Seville.
+- 🔭 I’m a software engineer.
 
 ### Languages 👨‍💻
 
