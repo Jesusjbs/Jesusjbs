@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=4085EB)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=4085EB)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=orange)
@@ -16,13 +15,13 @@
 ### Technologies 🌐
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=05F99B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
-![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=Travis-CI)
 ![Codacy](https://img.shields.io/badge/-Codacy-000?&logo=codacy)
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-000?logo=sonarcloud)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?logo=github-actions)
 
 ### Tools 🛠
 
@@ -33,9 +32,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
-![GitKraken](https://img.shields.io/badge/-GitKraken-000?logo=gitkraken)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?logo=mariadb&logoColor=CCAB63)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?logo=wireshark&logoColor=112FDA)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Jesusjbs&show_icons=true&count_private=true&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesusjbs&show_icons=true&count_private=true&theme=react" />
