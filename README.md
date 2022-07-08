@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋 I'm Jesús
+## 👋 Hi there, I'm Jesús
 
 👨‍💻 I’m a software engineer
 
@@ -17,6 +17,8 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/JavaScript.svg" alt="JavaScript"></a>
 <a margin="10" href="https://www.php.net" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/PHP.svg" alt="PHP"></a>
 
+##
+
 ### Technologies 🌐
 
 <a margin="10" href="https://spring.io" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/Spring.svg" alt="Spring"></a>
@@ -27,6 +29,8 @@
 <a margin="10" href="https://sonarcloud.io" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/SonarCloud.svg" alt="SonarCloud"></a>
 <a margin="10" href="https://github.com/features/actions" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/GitHubActions.svg" alt="GitHub Actions"></a>
 
+##
+
 ### Tools 🛠
 
 <a margin="10" href="https://code.visualstudio.com" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/VisualStudioCode.svg" alt="VS Code"></a>
@@ -35,6 +39,8 @@
 <a margin="10" href="https://git-scm.com" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/Git.svg" alt="Git"></a>
 <a margin="10" href="https://www.oracle.com/database/sqldeveloper" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/SQLDeveloper.svg" alt="SQL Developer"></a>
 <a margin="10" href="https://www.docker.com" target="_blank"><img margin="10px" height="40" src="https://github.com/Jesusjbs/Jesusjbs/blob/main/svgs/Docker.svg" alt="Docker"></a>
+
+##
 
 <a href="https://github-readme-stats.vercel.app/api?username=Jesusjbs&show_icons=true&count_private=true&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesusjbs&show_icons=true&count_private=true&theme=react" />
